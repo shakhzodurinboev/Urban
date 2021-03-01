@@ -1,0 +1,561 @@
+/* Class = "UILabel"; text = "1 300 000 сум"; ObjectID = "0YC-K6-bbp"; */
+"0YC-K6-bbp.text" = "1 300 000 сум";
+
+/* Class = "UILabel"; text = "Наличность:"; ObjectID = "2hb-my-2pn"; */
+"2hb-my-2pn.text" = "Naqd pul:";
+
+/* Class = "UILabel"; text = "Для оплаты пожалуйста пройдите к\nкассиру и покажите чек\n—\nДанные обновятся в течение\n5 минут после оплаты"; ObjectID = "2wC-76-khd"; */
+"2wC-76-khd.text" = "To'lovni amalga oshirish uchun kassirga borib chekni ko'rsating - Ma'lumotlar to'lov dan so'ng 5 daqiqadan ichda yangilanadi";
+
+/* Class = "UILabel"; text = "+998 71 789 89 89"; ObjectID = "2xE-oB-8SC"; */
+"2xE-oB-8SC.text" = "+998 71 789 89 89";
+
+/* Class = "UILabel"; text = "Женские, сине-бирюзовые,\n39 размер, AGJD42GYF4"; ObjectID = "3Oe-U1-LkE"; */
+"3Oe-U1-LkE.text" = "Женские, сине-бирюзовые,\n39 размер, AGJD42GYF4";
+
+/* Class = "UILabel"; text = "Вс"; ObjectID = "3aK-Yh-wNT"; */
+"3aK-Yh-wNT.text" = "Yak";
+
+/* Class = "UISegmentedControl"; 3c9-5H-VPZ.segmentTitles[0] = "Все"; ObjectID = "3c9-5H-VPZ"; */
+"3c9-5H-VPZ.segmentTitles[0]" = "Hammasi";
+
+/* Class = "UISegmentedControl"; 3c9-5H-VPZ.segmentTitles[1] = "Мужское"; ObjectID = "3c9-5H-VPZ"; */
+"3c9-5H-VPZ.segmentTitles[1]" = "Erkaklarga";
+
+/* Class = "UISegmentedControl"; 3c9-5H-VPZ.segmentTitles[2] = "Женское"; ObjectID = "3c9-5H-VPZ"; */
+"3c9-5H-VPZ.segmentTitles[2]" = "Ayollarga";
+
+/* Class = "UISegmentedControl"; 3c9-5H-VPZ.segmentTitles[3] = "Детское"; ObjectID = "3c9-5H-VPZ"; */
+"3c9-5H-VPZ.segmentTitles[3]" = "Bolalarga";
+
+/* Class = "UIBarButtonItem"; title = "Закрыть"; ObjectID = "4VP-ug-02V"; */
+"4VP-ug-02V.title" = "Yopish";
+
+/* Class = "UITextField"; placeholder = "Введите код подтверждения"; ObjectID = "4Za-oN-30K"; */
+"4Za-oN-30K.placeholder" = "Tasdiqlash kodini kiriting";
+
+/* Class = "UIBarButtonItem"; title = "Скачать чек"; ObjectID = "5KQ-Rj-3NJ"; */
+"5KQ-Rj-3NJ.title" = "Chekni yuklab olish";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "5YM-tM-gZk"; */
+"5YM-tM-gZk.title" = " ";
+
+/* Class = "UILabel"; text = "Артикул:  "; ObjectID = "6I5-vf-NZz"; */
+"6I5-vf-NZz.text" = "Malumot:  ";
+
+/* Class = "UILabel"; text = "Пол*"; ObjectID = "6Q9-Ev-s4y"; */
+"6Q9-Ev-s4y.text" = "Jins*";
+
+/* Class = "UILabel"; text = "Размер:"; ObjectID = "7T9-Qm-wqI"; */
+"7T9-Qm-wqI.text" = "Hajmi:";
+
+/* Class = "UILabel"; text = "5%"; ObjectID = "8Yl-Pq-LHl"; */
+"8Yl-Pq-LHl.text" = "5%";
+
+/* Class = "UILabel"; text = "сум"; ObjectID = "8xZ-g9-fpR"; */
+"8xZ-g9-fpR.text" = "sum";
+
+/* Class = "UILabel"; text = "Вы – счастливый обладатель 5% скидки, а также при каждой покупке вы получаете 5% от суммы в копилку"; ObjectID = "9Fr-11-tTb"; */
+"9Fr-11-tTb.text" = "Siz 5% chegirma ga ega bo'ldingiz, shuningdek har bir xaridingiz bilan siz 5% chegirma ga ega bo'lasiz.";
+
+/* Class = "UISegmentedControl"; 9aF-Og-k4N.segmentTitles[0] = "Личные данные"; ObjectID = "9aF-Og-k4N"; */
+"9aF-Og-k4N.segmentTitles[0]" = "Shaxsiy ma'lumotlar";
+
+/* Class = "UISegmentedControl"; 9aF-Og-k4N.segmentTitles[1] = "История покупок"; ObjectID = "9aF-Og-k4N"; */
+"9aF-Og-k4N.segmentTitles[1]" = "Sotib olish tarixi";
+
+/* Class = "UIButton"; normalTitle = "Согласен с условиями оферты"; ObjectID = "9bb-uC-zRm"; */
+"9bb-uC-zRm.normalTitle" = "Men taklif shartlariga roziman";
+
+/* Class = "UILabel"; text = "English language "; ObjectID = "9cg-go-kVb"; */
+"9cg-go-kVb.text" = "English language ";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "9j8-IH-rMx"; */
+"9j8-IH-rMx.title" = " ";
+
+/* Class = "UILabel"; text = "Тип:"; ObjectID = "9kR-fa-Ga7"; */
+"9kR-fa-Ga7.text" = "Turi:";
+
+/* Class = "UILabel"; text = "сум"; ObjectID = "399-ed-fKy"; */
+"399-ed-fKy.text" = "sum";
+
+/* Class = "UILabel"; text = "Оплата через cashback"; ObjectID = "ABC-65-eUL"; */
+"ABC-65-eUL.text" = "Cashback orqali to'lov";
+
+/* Class = "UILabel"; text = "ЛЕНТА"; ObjectID = "ACl-LW-4xS"; */
+"ACl-LW-4xS.text" = "TAPE";
+
+/* Class = "UILabel"; text = "5%"; ObjectID = "AOJ-MY-kuI"; */
+"AOJ-MY-kuI.text" = "5%";
+
+/* Class = "UIBarButtonItem"; title = "Скачать чек"; ObjectID = "AYh-HZ-m90"; */
+"AYh-HZ-m90.title" = "Chekni yuklab olish";
+
+/* Class = "UILabel"; text = "GHSFAH76BJ"; ObjectID = "AhR-8T-gV9"; */
+"AhR-8T-gV9.text" = "GHSFAH76BJ";
+
+/* Class = "UITextField"; placeholder = "День   /   Месяц   /   Год"; ObjectID = "BJS-Dw-iFs"; */
+"BJS-Dw-iFs.placeholder" = "Kun   /   Oy   /   Yil";
+
+/* Class = "UILabel"; text = "проспект Тараса Шевченко, дом 18, Мирзо-Улугбекский район"; ObjectID = "BhX-Gr-FPS"; */
+"BhX-Gr-FPS.text" = "проспект Тараса Шевченко, дом 18, Мирзо-Улугбекский район";
+
+/* Class = "UILabel"; text = "Уведомления"; ObjectID = "BjO-GE-cG9"; */
+"BjO-GE-cG9.text" = "Bildirishnomalar";
+
+/* Class = "UIButton"; normalTitle = "Выбрать"; ObjectID = "C2I-c3-ekm"; */
+"C2I-c3-ekm.normalTitle" = "Tanlash";
+
+/* Class = "UIButton"; normalTitle = "Войти"; ObjectID = "CFo-Gs-IBG"; */
+"CFo-Gs-IBG.normalTitle" = "Kirish";
+
+/* Class = "UINavigationItem"; title = "РЕГИСТРАЦИЯ"; ObjectID = "CMN-3T-nvG"; */
+"CMN-3T-nvG.title" = "RO'YXATGA OLISH";
+
+/* Class = "UILabel"; text = "Пол*"; ObjectID = "CXR-ok-QTT"; */
+"CXR-ok-QTT.text" = "Jins*";
+
+/* Class = "UILabel"; text = "890 м"; ObjectID = "Cmq-2K-iIm"; */
+"Cmq-2K-iIm.text" = "890 м";
+
+/* Class = "UISegmentedControl"; CnI-5O-HZJ.segmentTitles[0] = "QR Код"; ObjectID = "CnI-5O-HZJ"; */
+"CnI-5O-HZJ.segmentTitles[0]" = "QR Kod";
+
+/* Class = "UISegmentedControl"; CnI-5O-HZJ.segmentTitles[1] = "Сканер"; ObjectID = "CnI-5O-HZJ"; */
+"CnI-5O-HZJ.segmentTitles[1]" = "Scaner";
+
+/* Class = "UILabel"; text = "ВВЕДИТЕ НОМЕР ТЕЛЕФОНА"; ObjectID = "DD2-cm-fNX"; */
+"DD2-cm-fNX.text" = "TELEFON NOMERINGIZNI KIRITING";
+
+/* Class = "UILabel"; text = "+2000"; ObjectID = "DXv-sm-FlZ"; */
+"DXv-sm-FlZ.text" = "+2000";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "Deq-nJ-aX6"; */
+"Deq-nJ-aX6.title" = " ";
+
+/* Class = "UIBarButtonItem"; title = "Далее"; ObjectID = "Dml-ZU-Qxa"; */
+"Dml-ZU-Qxa.title" = "Yanada";
+
+/* Class = "UILabel"; text = "КРОСОВКИ NEW BALANCE LIMITED EDITION"; ObjectID = "E5b-rZ-g0S"; */
+"E5b-rZ-g0S.text" = "КРОСОВКИ NEW BALANCE LIMITED EDITION";
+
+/* Class = "UILabel"; text = "сум"; ObjectID = "ELX-Of-REZ"; */
+"ELX-Of-REZ.text" = "sum";
+
+/* Class = "UILabel"; text = "сум"; ObjectID = "Eb2-DC-MO6"; */
+"Eb2-DC-MO6.text" = "sum";
+
+/* Class = "UIButton"; normalTitle = "Выбрать"; ObjectID = "EdP-0S-VY5"; */
+"EdP-0S-VY5.normalTitle" = "Tanlash";
+
+/* Class = "UILabel"; text = "2 000 000"; ObjectID = "EhO-GV-cEL"; */
+"EhO-GV-cEL.text" = "2 000 000";
+
+/* Class = "UILabel"; text = "1 380 000"; ObjectID = "Ets-iW-83d"; */
+"Ets-iW-83d.text" = "1 380 000";
+
+/* Class = "UILabel"; text = "Введите сумму cashback, сум"; ObjectID = "FBP-rT-Sn0"; */
+"FBP-rT-Sn0.text" = "Cashback summasi miqdorini kiriting ";
+
+/* Class = "UILabel"; text = "КОД ПОДТВЕРЖДЕНИЯ"; ObjectID = "FrK-7y-CWq"; */
+"FrK-7y-CWq.text" = "TASDIQLASH KODI";
+
+/* Class = "UIBarButtonItem"; title = "Далее"; ObjectID = "GDX-9V-9SA"; */
+"GDX-9V-9SA.title" = "Yanada";
+
+/* Class = "UILabel"; text = "Выходной"; ObjectID = "HKY-ei-NgC"; */
+"HKY-ei-NgC.text" = "Dam olish kunlar";
+
+/* Class = "UITextField"; placeholder = "(XX) XXX-XX-XX"; ObjectID = "Ha9-fk-QSA"; */
+"Ha9-fk-QSA.placeholder" = "(XX) XXX-XX-XX";
+
+/* Class = "UITextField"; placeholder = "Введите вашу фамилию"; ObjectID = "IXd-XP-7Q7"; */
+"IXd-XP-7Q7.placeholder" = "Familiyangizni kiriting";
+
+/* Class = "UILabel"; text = "ВАШ QR КОД"; ObjectID = "IYB-dA-QsY"; */
+"IYB-dA-QsY.text" = "SIZNING QR KODINGIZ";
+
+/* Class = "UILabel"; text = "39"; ObjectID = "IvW-1N-9Tk"; */
+"IvW-1N-9Tk.text" = "39";
+
+/* Class = "UITextField"; placeholder = "День  /  Месяц  /  Год"; ObjectID = "JZr-zR-zFw"; */
+"JZr-zR-zFw.placeholder" = "Kun  /  Oy  /  Yil";
+
+/* Class = "UINavigationItem"; title = "ФИЛИАЛЫ"; ObjectID = "Jk8-Pn-xqK"; */
+"Jk8-Pn-xqK.title" = "FILIALLAR";
+
+/* Class = "UILabel"; text = "Стоимость товара со скидкой"; ObjectID = "JlS-Oe-q8R"; */
+"JlS-Oe-q8R.text" = "Chegirma tovarlar qiymati";
+
+/* Class = "UILabel"; text = "Выйти из учетной записи"; ObjectID = "K6M-AL-RZt"; */
+"K6M-AL-RZt.text" = "Shaxsiy kabinetdan chiqish";
+
+/* Class = "UILabel"; text = "200 000"; ObjectID = "K6u-5u-LoF"; */
+"K6u-5u-LoF.text" = "200 000";
+
+/* Class = "UIButton"; normalTitle = "Отправить код заново"; ObjectID = "KH2-65-Dz8"; */
+"KH2-65-Dz8.normalTitle" = "Kodni qayta yuborish";
+
+/* Class = "UILabel"; text = "-5%"; ObjectID = "KWd-qk-bXG"; */
+"KWd-qk-bXG.text" = "-5%";
+
+/* Class = "UILabel"; text = "Мужской"; ObjectID = "Kba-HC-IRt"; */
+"Kba-HC-IRt.text" = "Erkak";
+
+/* Class = "UILabel"; text = "КРОССОВКИ"; ObjectID = "KfQ-Qy-6Y5"; */
+"KfQ-Qy-6Y5.text" = "КРОССОВКИ";
+
+/* Class = "UILabel"; text = "20 000"; ObjectID = "L2h-D3-yAH"; */
+"L2h-D3-yAH.text" = "20 000";
+
+/* Class = "UIButton"; normalTitle = "Взять данные с Facebook"; ObjectID = "LKV-Lp-StA"; */
+"LKV-Lp-StA.normalTitle" = "Facebookdan ma'lumot oling";
+
+/* Class = "UIButton"; normalTitle = "Взять данные с Facebook"; ObjectID = "LnP-DR-Ec2"; */
+"LnP-DR-Ec2.normalTitle" = "Facebookdan ma'lumot oling";
+
+/* Class = "UILabel"; text = "5%"; ObjectID = "Ly0-ce-ZWy"; */
+"Ly0-ce-ZWy.text" = "5%";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "MoQ-ln-Y9B"; */
+"MoQ-ln-Y9B.title" = " ";
+
+/* Class = "UILabel"; text = "Стоимость товара без скидки"; ObjectID = "MpJ-nj-QxS"; */
+"MpJ-nj-QxS.text" = "Chegirmasiz tovar narxi";
+
+/* Class = "UILabel"; text = "Наведите на штрих код для получения цены"; ObjectID = "Muu-cX-dka"; */
+"Muu-cX-dka.text" = "Narxlarni olish uchun shtrix-kodni belgilang";
+
+/* Class = "UIBarButtonItem"; title = "Далее"; ObjectID = "Mvn-wf-OgF"; */
+"Mvn-wf-OgF.title" = "Yanada";
+
+/* Class = "UILabel"; text = "Женские, сине-бирюзовые,\n39 размер, AGJD42GYF4"; ObjectID = "N16-Lw-fne"; */
+"N16-Lw-fne.text" = "Женские, сине-бирюзовые,\n39 размер, AGJD42GYF4";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "NAt-89-815"; */
+"NAt-89-815.title" = " ";
+
+/* Class = "UILabel"; text = "2 145 780"; ObjectID = "NYd-cF-GTL"; */
+"NYd-cF-GTL.text" = "2 145 780";
+
+/* Class = "UILabel"; text = "Поменять язык"; ObjectID = "Nc8-YY-jbS"; */
+"Nc8-YY-jbS.text" = "Til ozgartirish";
+
+/* Class = "UILabel"; text = "1 300 000 сум"; ObjectID = "Ncw-e5-82J"; */
+"Ncw-e5-82J.text" = "1 300 000 сум";
+
+/* Class = "UILabel"; text = "Итого к оплате "; ObjectID = "OpJ-zV-u9y"; */
+"OpJ-zV-u9y.text" = "To'lov uchun jami ";
+
+/* Class = "UIButton"; normalTitle = "Назад"; ObjectID = "OqH-EE-dl9"; */
+"OqH-EE-dl9.normalTitle" = "Ortga";
+
+/* Class = "UILabel"; text = "c 09:00 по 18:00"; ObjectID = "PPv-4R-eiD"; */
+"PPv-4R-eiD.text" = "c 09:00 по 18:00";
+
+/* Class = "UILabel"; text = "сум"; ObjectID = "QCs-n7-tB9"; */
+"QCs-n7-tB9.text" = "sum";
+
+/* Class = "UILabel"; text = "Вчера, 14:34"; ObjectID = "QLf-DM-blq"; */
+"QLf-DM-blq.text" = "Вчера, 14:34";
+
+/* Class = "UILabel"; text = "Вам в копилку добавилось"; ObjectID = "Ryn-0T-lfr"; */
+"Ryn-0T-lfr.text" = "G'aznachilik siz qo'shilgan";
+
+/* Class = "UISearchBar"; placeholder = "Введите ключевое слово"; ObjectID = "SPD-6Y-UKr"; */
+"SPD-6Y-UKr.placeholder" = "Kalit so'zni kiriting";
+
+/* Class = "UILabel"; text = "Свернуть"; ObjectID = "SPr-db-8rB"; */
+"SPr-db-8rB.text" = "Daralt";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "SRm-Zh-NJ5"; */
+"SRm-Zh-NJ5.title" = " ";
+
+/* Class = "UILabel"; text = "MAX 5 000 000 сум"; ObjectID = "TAG-4f-ua1"; */
+"TAG-4f-ua1.text" = "MAX 5 000 000 сум";
+
+/* Class = "UILabel"; text = "Ваша скидка"; ObjectID = "UYT-ds-R2J"; */
+"UYT-ds-R2J.text" = "Sizning chegirmangiz";
+
+/* Class = "UILabel"; text = "сум"; ObjectID = "Uht-CE-0G0"; */
+"Uht-CE-0G0.text" = "sum";
+
+/* Class = "UILabel"; text = "Cashback:"; ObjectID = "Uz7-Aq-4se"; */
+"Uz7-Aq-4se.text" = "Cashback:";
+
+/* Class = "UINavigationItem"; title = "НАСТРОЙКИ"; ObjectID = "V5o-m5-x7B"; */
+"V5o-m5-x7B.title" = "SOZLAMALAR";
+
+/* Class = "UILabel"; text = "проспект  Шота Руставелли, 158"; ObjectID = "Van-4g-Yqd"; */
+"Van-4g-Yqd.text" = "проспект  Шота Руставелли, 158";
+
+/* Class = "UILabel"; text = "1 890 000"; ObjectID = "Vm4-sf-zfx"; */
+"Vm4-sf-zfx.text" = "1 890 000";
+
+/* Class = "UILabel"; text = "Имя*"; ObjectID = "VtJ-aI-BVi"; */
+"VtJ-aI-BVi.text" = "Ism*";
+
+/* Class = "UITextField"; placeholder = "Введите ваше имя"; ObjectID = "W5p-Fv-Tk7"; */
+"W5p-Fv-Tk7.placeholder" = "Ismingizni kiriting";
+
+/* Class = "UILabel"; text = "+2 145"; ObjectID = "W65-2b-Bq0"; */
+"W65-2b-Bq0.text" = "+2 145";
+
+/* Class = "UILabel"; text = "Карты:"; ObjectID = "WHs-U1-FNj"; */
+"WHs-U1-FNj.text" = "Xaritalar:";
+
+/* Class = "UITabBarController"; title = "TabBarViewController"; ObjectID = "WjH-qE-krf"; */
+"WjH-qE-krf.title" = "TabBarViewController";
+
+/* Class = "UILabel"; text = "2 145 780 сум"; ObjectID = "XCl-A2-hIM"; */
+"XCl-A2-hIM.text" = "2 145 780 сум";
+
+/* Class = "UILabel"; text = "сум"; ObjectID = "XS6-fI-5ep"; */
+"XS6-fI-5ep.text" = "sum";
+
+/* Class = "UILabel"; text = "5%"; ObjectID = "XUG-2X-K2N"; */
+"XUG-2X-K2N.text" = "5%";
+
+/* Class = "UILabel"; text = "ЛИЧНЫЙ КАБИНЕТ"; ObjectID = "XuN-3E-nTc"; */
+"XuN-3E-nTc.text" = "SHAXSIY KABINET";
+
+/* Class = "UILabel"; text = "сум"; ObjectID = "Ylo-2b-MYH"; */
+"Ylo-2b-MYH.text" = "sum";
+
+/* Class = "UILabel"; text = "сум"; ObjectID = "ZyW-NA-M4j"; */
+"ZyW-NA-M4j.text" = "sum";
+
+/* Class = "UILabel"; text = "КРОСОВКИ NEW BALANCE LIMITED EDITION"; ObjectID = "aNi-wP-UVt"; */
+"aNi-wP-UVt.text" = "КРОСОВКИ NEW BALANCE LIMITED EDITION";
+
+/* Class = "UILabel"; text = "КРОСОВКИ NEW BALANCE LIMITED EDITION"; ObjectID = "b9Z-Xk-Z4P"; */
+"b9Z-Xk-Z4P.text" = "КРОСОВКИ NEW BALANCE LIMITED EDITION";
+
+/* Class = "UILabel"; text = "НАКОПЛЕНИЯ"; ObjectID = "bNH-bN-BoY"; */
+"bNH-bN-BoY.text" = "YIG'ILISHLAR";
+
+/* Class = "UILabel"; text = "Уведомления"; ObjectID = "c7F-tK-aTc"; */
+"c7F-tK-aTc.text" = "Bildirishnomalar";
+
+/* Class = "UILabel"; text = "Мужской"; ObjectID = "cRT-Gy-so5"; */
+"cRT-Gy-so5.text" = "Erkak";
+
+/* Class = "UITextField"; placeholder = "+998"; ObjectID = "cV7-1d-xXJ"; */
+"cV7-1d-xXJ.placeholder" = "+998";
+
+/* Class = "UILabel"; text = "ИТОГО"; ObjectID = "cbg-P9-1Ui"; */
+"cbg-P9-1Ui.text" = "JAMI";
+
+/* Class = "UILabel"; text = "МЕТОДЫ ОПЛАТЫ"; ObjectID = "cma-hm-CVv"; */
+"cma-hm-CVv.text" = "TO'LOV USULLARI";
+
+/* Class = "UILabel"; text = "Стоимость товара со скидкой"; ObjectID = "coM-aU-JOY"; */
+"coM-aU-JOY.text" = "Chegirma tovarlar qiymati";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "ctI-7f-WBt"; */
+"ctI-7f-WBt.title" = " ";
+
+/* Class = "UILabel"; text = "Для оплаты пожалуйста пройдите к\nкассиру и покажите чек\n—\nДанные обновятся в течение\n5 минут после оплаты"; ObjectID = "dTG-GQ-OHo"; */
+"dTG-GQ-OHo.text" = "To'lovni amalga oshirish uchun kassirga borib chekni ko'rsating - Ma'lumotlar to'lov dan so'ng 5 daqiqadan ichda yangilanadi";
+
+/* Class = "UILabel"; text = "2 145 780 сум"; ObjectID = "dcX-Wo-rh3"; */
+"dcX-Wo-rh3.text" = "2 145 780 сум";
+
+/* Class = "UILabel"; text = "+2 000"; ObjectID = "ddH-Li-GSe"; */
+"ddH-Li-GSe.text" = "+2 000";
+
+/* Class = "UILabel"; text = "i"; ObjectID = "dkA-ly-YPx"; */
+"dkA-ly-YPx.text" = "i";
+
+/* Class = "UILabel"; text = "сум"; ObjectID = "eZI-mP-Kfr"; */
+"eZI-mP-Kfr.text" = "sum";
+
+/* Class = "UILabel"; text = "0 сум"; ObjectID = "efG-FY-lbf"; */
+"efG-FY-lbf.text" = "0 sum";
+
+/* Class = "UIBarButtonItem"; title = "Готово"; ObjectID = "egu-Z0-IaW"; */
+"egu-Z0-IaW.title" = "Tayyor";
+
+/* Class = "UILabel"; text = "2 145 780"; ObjectID = "es8-dO-EfG"; */
+"es8-dO-EfG.text" = "2 145 780";
+
+/* Class = "UILabel"; text = "Женское"; ObjectID = "esb-VI-kdv"; */
+"esb-VI-kdv.text" = "Ayol";
+
+/* Class = "UINavigationItem"; title = "ПОДТВЕРЖДЕНИЕ"; ObjectID = "f2o-pv-LnT"; */
+"f2o-pv-LnT.title" = "TASDIQLASH";
+
+/* Class = "UILabel"; text = "2 800 000 сум"; ObjectID = "fR8-Ui-d7R"; */
+"fR8-Ui-d7R.text" = "2 800 000 сум";
+
+/* Class = "UILabel"; text = "Стоимость товара без скидки"; ObjectID = "ffu-k0-ycp"; */
+"ffu-k0-ycp.text" = "Tovar narxi chegirmalar holda ";
+
+/* Class = "UITextField"; placeholder = "Введите ваше имя"; ObjectID = "fww-Uv-ARs"; */
+"fww-Uv-ARs.placeholder" = "Ismingizni kiriting";
+
+/* Class = "UILabel"; text = "i"; ObjectID = "g14-eM-Xt0"; */
+"g14-eM-Xt0.text" = "i";
+
+/* Class = "UILabel"; text = "Мы в социальных сетях"; ObjectID = "h2i-f5-4jd"; */
+"h2i-f5-4jd.text" = "Ijtimoiy biz tarmoqlari";
+
+/* Class = "UILabel"; text = "New Balance Limited Edition - унисекс,\nбордовые, 40 размер, ADFGHDS"; ObjectID = "h5z-C9-IfZ"; */
+"h5z-C9-IfZ.text" = "New Balance Limited Edition - унисекс,\nбордовые, 40 размер, ADFGHDS";
+
+/* Class = "UILabel"; text = "1 300 000 сум"; ObjectID = "hDO-en-7d0"; */
+"hDO-en-7d0.text" = "1 300 000 сум";
+
+/* Class = "UILabel"; text = "сум"; ObjectID = "hDW-KN-XGu"; */
+"hDW-KN-XGu.text" = "sum";
+
+/* Class = "UILabel"; text = "Обладатели скидочных карт,\nдля увелечения скидки обратитесь к кассиру в магазине нашей сети"; ObjectID = "hWV-vr-2iX"; */
+"hWV-vr-2iX.text" = "Diskont kartalari egalari, chegirma oshirish uchun, bizning tarmoq do'konga kassir aloqa qiling";
+
+/* Class = "UILabel"; text = "345 780 сум"; ObjectID = "hYN-dv-ZaS"; */
+"hYN-dv-ZaS.text" = "345 780 сум";
+
+/* Class = "UILabel"; text = "Женский"; ObjectID = "hkJ-19-M9T"; */
+"hkJ-19-M9T.text" = "Ayol";
+
+/* Class = "UIBarButtonItem"; title = "  "; ObjectID = "iEG-Wt-lhG"; */
+"iEG-Wt-lhG.title" = "  ";
+
+/* Class = "UILabel"; text = "- 144 780"; ObjectID = "iaX-pG-WtI"; */
+"iaX-pG-WtI.text" = "- 144 780";
+
+/* Class = "UILabel"; text = "В вашей копилке"; ObjectID = "ima-O5-sGO"; */
+"ima-O5-sGO.text" = "Sizning g'aznachilik bankingizda";
+
+/* Class = "UIButton"; normalTitle = "Взять данные с Google+"; ObjectID = "ixo-mR-9vs"; */
+"ixo-mR-9vs.normalTitle" = "Google+ ma'lumotlaridan foydalaning";
+
+/* Class = "UIButton"; normalTitle = "Получить код"; ObjectID = "kF0-Jn-iFL"; */
+"kF0-Jn-iFL.normalTitle" = "Kodni oling";
+
+/* Class = "UILabel"; text = "Сб"; ObjectID = "kVc-Gd-i8C"; */
+"kVc-Gd-i8C.text" = "Shan";
+
+/* Class = "UILabel"; text = "Бирюзово - голубой"; ObjectID = "kaw-cO-9Sm"; */
+"kaw-cO-9Sm.text" = "Бирюзово - голубой";
+
+/* Class = "UILabel"; text = "Ваш индивидуальный QR код"; ObjectID = "koG-rO-7bq"; */
+"koG-rO-7bq.text" = "Shaxsiy QR kodingiz";
+
+/* Class = "UILabel"; text = "Цвет:"; ObjectID = "lIR-vU-Mjp"; */
+"lIR-vU-Mjp.text" = "Rang:";
+
+/* Class = "UILabel"; text = "Открыто"; ObjectID = "lZi-yq-RX0"; */
+"lZi-yq-RX0.text" = "Ochiq";
+
+/* Class = "UILabel"; text = "Муж., 22 лет"; ObjectID = "lnV-8c-QM7"; */
+"lnV-8c-QM7.text" = "Муж., 22 лет";
+
+/* Class = "UIButton"; normalTitle = "Назад"; ObjectID = "mdy-eA-JVA"; */
+"mdy-eA-JVA.normalTitle" = "Ortga";
+
+/* Class = "UILabel"; text = "Накопления"; ObjectID = "mvL-ix-jpx"; */
+"mvL-ix-jpx.text" = "Yig'ilganlar";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "nCr-kD-r1d"; */
+"nCr-kD-r1d.title" = " ";
+
+/* Class = "UILabel"; text = "сум"; ObjectID = "npG-ms-cx2"; */
+"npG-ms-cx2.text" = "sum";
+
+/* Class = "UILabel"; text = "c 11:00 по 20:00"; ObjectID = "o7y-76-eir"; */
+"o7y-76-eir.text" = "c 11:00 по 20:00";
+
+/* Class = "UILabel"; text = "Имя*"; ObjectID = "oac-KG-rAV"; */
+"oac-KG-rAV.text" = "Ism*";
+
+/* Class = "UILabel"; text = "2 140 514"; ObjectID = "p2i-Fd-SXe"; */
+"p2i-Fd-SXe.text" = "2 140 514";
+
+/* Class = "UILabel"; text = "+998 97 774 89 78"; ObjectID = "qCU-YE-3Yq"; */
+"qCU-YE-3Yq.text" = "+998 97 774 89 78";
+
+/* Class = "UILabel"; text = "O’zbek tilli"; ObjectID = "rFQ-ML-qx1"; */
+"rFQ-ML-qx1.text" = "O’zbek tilli";
+
+/* Class = "UILabel"; text = "-5%"; ObjectID = "sen-a0-gb7"; */
+"sen-a0-gb7.text" = "-5%";
+
+/* Class = "UILabel"; text = "Вам в копилку добавилось"; ObjectID = "sqY-gf-tkg"; */
+"sqY-gf-tkg.text" = "G'aznachilik siz qo'shilgan";
+
+/* Class = "UILabel"; text = "Дата рождения"; ObjectID = "t3s-cP-Wcz"; */
+"t3s-cP-Wcz.text" = "Tug'ilgan kun";
+
+/* Class = "UILabel"; text = "Пн - Пт"; ObjectID = "tAS-ye-i4p"; */
+"tAS-ye-i4p.text" = "Dush - Jum";
+
+/* Class = "UILabel"; text = "Женские, сине-бирюзовые, 39 размер, AGJD42GYF4"; ObjectID = "tLz-We-1Y1"; */
+"tLz-We-1Y1.text" = "Женские, сине-бирюзовые, 39 размер, AGJD42GYF4";
+
+/* Class = "UILabel"; text = "Женские, сине-бирюзовые,\n39 размер, AGJD42GYF4"; ObjectID = "tME-yP-xe7"; */
+"tME-yP-xe7.text" = "Женские, сине-бирюзовые,\n39 размер, AGJD42GYF4";
+
+/* Class = "UITextField"; placeholder = "Введите вашу фамилию"; ObjectID = "u2h-5s-btt"; */
+"u2h-5s-btt.placeholder" = "Familiyangizni kiriting";
+
+/* Class = "UILabel"; text = "сум"; ObjectID = "uGu-9V-l0h"; */
+"uGu-9V-l0h.text" = "sum";
+
+/* Class = "UIButton"; normalTitle = "Взять данные с Google+"; ObjectID = "uMJ-2D-OnT"; */
+"uMJ-2D-OnT.normalTitle" = "Google+ ma'lumotlaridan foydalaning";
+
+/* Class = "UILabel"; text = "Русский язык"; ObjectID = "uo4-dd-7fG"; */
+"uo4-dd-7fG.text" = "Русский язык";
+
+/* Class = "UILabel"; text = "6%"; ObjectID = "up9-Me-JJT"; */
+"up9-Me-JJT.text" = "6%";
+
+/* Class = "UIBarButtonItem"; title = "Сохранить"; ObjectID = "uwq-x0-DKi"; */
+"uwq-x0-DKi.title" = "Saqlash";
+
+/* Class = "UILabel"; text = "Khusan Yusufkhujaev"; ObjectID = "uzh-nq-f4a"; */
+"uzh-nq-f4a.text" = "Khusan Yusufkhujaev";
+
+/* Class = "UIButton"; normalTitle = "Оплатить через cashaback"; ObjectID = "vTD-MD-QGJ"; */
+"vTD-MD-QGJ.normalTitle" = "Cashaback orqali to'lov";
+
+/* Class = "UILabel"; text = "Дата рождения"; ObjectID = "vyC-vs-LL0"; */
+"vyC-vs-LL0.text" = "Tug'ilgan kun";
+
+/* Class = "UILabel"; text = "Режим работы"; ObjectID = "w5d-5c-oha"; */
+"w5d-5c-oha.text" = "Ish tartibi";
+
+/* Class = "UILabel"; text = "Итого к оплате"; ObjectID = "wcQ-PI-xwX"; */
+"wcQ-PI-xwX.text" = "To'lov uchun jami";
+
+/* Class = "UIBarButtonItem"; title = "Закрыть"; ObjectID = "wid-LE-53b"; */
+"wid-LE-53b.title" = "Yopish";
+
+/* Class = "UINavigationItem"; title = "БРЕНДЫ"; ObjectID = "xh5-P2-JAp"; */
+"xh5-P2-JAp.title" = "BRENDLAR";
+
+/* Class = "UILabel"; text = "Фамилия"; ObjectID = "yFM-iF-f7Y"; */
+"yFM-iF-f7Y.text" = "Familiya";
+
+/* Class = "UILabel"; text = "Фамилия"; ObjectID = "yFz-Zq-zUY"; */
+"yFz-Zq-zUY.text" = "Familiya";
+
+/* Class = "UILabel"; text = "2 145 000"; ObjectID = "yIU-Du-wq0"; */
+"yIU-Du-wq0.text" = "2 145 000";
+
+/* Class = "UILabel"; text = "800 000 сум"; ObjectID = "z2A-vp-Ud3"; */
+"z2A-vp-Ud3.text" = "800 000 сум";
+
+/* Class = "UILabel"; text = "Кроссовки New Balance Limited Edition  copy"; ObjectID = "z7A-f3-u0u"; */
+"z7A-f3-u0u.text" = "Кроссовки New Balance Limited Edition  copy";
+
+/* Class = "UILabel"; text = "Женский"; ObjectID = "z9Q-dO-DFn"; */
+"z9Q-dO-DFn.text" = "Ayol";
+
+/* Class = "UILabel"; text = "ПОЗДРАВЛЯЕМ!"; ObjectID = "zJH-p4-glO"; */
+"zJH-p4-glO.text" = "TABRIKLARMIZ!";
+
+/* Class = "UILabel"; text = "Кросовки New Balance\nLimited Edition"; ObjectID = "zuz-u4-nVY"; */
+"zuz-u4-nVY.text" = "Кросовки New Balance\nLimited Edition";
+
